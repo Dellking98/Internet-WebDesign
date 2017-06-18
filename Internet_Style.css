@@ -1,0 +1,171 @@
+header > img {
+  width: 10%;
+  /*height: 125px;*/
+}
+
+header img, header h1{
+  display: inline;
+  /*vertical-align: text-top;*/
+}
+
+header h1 {
+  font-size: 55px;
+}
+
+header > p{
+  color: white;
+  font-size: 43px;
+  background-color: blue;
+  margin: 0px;
+  /*padding: 15px;*/
+  /*margin-bottom: 90px;*/
+}
+
+
+
+aside{
+  margin-left: 40px;
+display: inline-block;
+vertical-align: top;
+width: 235px;
+border: 2px solid black}
+
+/*aside > div{
+  width: 45%;
+  height: auto;
+}*/
+
+#ninjaMan{
+height: 350px;
+background-image: url("/Users/dellking/Desktop/DojoAssignments/WebFundamentals/images-2/ad_background.png");
+vertical-align: top;
+}
+
+#ninjaMan > h3{
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -3px
+}
+
+#ninjaMan img, #ninjaMan button{
+  margin-left: 45px;
+}
+
+#ninjaMan > img{
+  width: 44%;
+  height: 123px;
+  align-items: center;
+}
+
+#ninjaMan button{
+  background-color: cyan;
+margin-top: 45px;
+border-radius: 5px;
+font-size: 25px;
+width: 190px;
+margin-left: -1px;
+  }
+
+  aside > div{
+    font-weight: bold;
+    font-size: 19px;
+  }
+
+  #button1{
+    height: 35px;
+    width: 190px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    font-size: 12pt;
+    margin-left: 5px;
+    margin-top: 15px;
+  }
+  #button2{
+    height: 35px;
+    width: 190px;
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    font-size: 12pt;
+    margin-left: 5px;
+    margin-bottom: 15px;
+  }
+
+  main {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+  }
+
+main > nav {
+  position: relative;
+}
+
+  #contactinfo{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display:inline-block;
+  }
+
+  #contactinfo > img{
+    width: 55px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  #contactinfo, #insideContactinfo{
+    display: inline-block;
+  }
+
+  #homeIamage > img{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+  }
+
+  #homeIamage > h3{
+    display: inline-block;
+    color: blue
+  }
+
+article{
+  position: relative;
+}
+
+  article > img{
+    width: 45%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+footer{
+  border: 3px solid #00FFFF;
+  display: inline-block;
+}
+
+  footer img{
+    width: 25%;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 15px
+  }
+
+  footer > h2 {
+    color: blue;
+  }
+
+  #theBig3{
+    width: 497px;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+    border: 2px solid;
+    vertical-align: top;
+    }
